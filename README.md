@@ -8,6 +8,9 @@
 
 - ⚡ Fun fact: **My first contact with the IT world was through Arduino!**
 
+- 👀 Have you checked my final project for Systems Analysis and Development (an equivalent for an associate degree in Brazil) ?
+  It's under the "Organizations" tag!
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://www.linkedin.com/in/halycia-de-oliveira-fonseca-111513278" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/halycia-de-oliveira-fonseca-111513278" height="30" width="40" /></a>
